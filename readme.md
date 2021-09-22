@@ -11,7 +11,7 @@
 [![Markdown linting](https://github.com/janosh/awesome-svelte-kit/workflows/Linter/badge.svg)](https://github.com/janosh/awesome-svelte-kit/actions)
 
 </h4>
-
+--
 <br>
 
 You can view the full list of sites with screenshots and search filters at **[awesome-svelte-kit.netlify.app](https://awesome-svelte-kit.netlify.app)**.
