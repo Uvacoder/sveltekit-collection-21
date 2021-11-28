@@ -1,7 +1,7 @@
 <p align="center">
   <img src="site/static/svelte-kit.svg" alt="SvelteKit" width="500">
 </p>
--
+
 <h1 align="center">Awesome examples of SvelteKit in the wild</h1>
 
 <h4 align="center">
